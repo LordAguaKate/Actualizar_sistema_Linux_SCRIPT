@@ -20,6 +20,5 @@ Este script en Python automatiza el proceso de actualización de paquetes en sis
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/actualizador-sistema.git
-cd actualizador-sistema
+git clone https://github.com/LordAguaKate/Actualizar_sistema_Linux_SCRIPT.git
 ```
